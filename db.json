@@ -1,0 +1,187 @@
+{
+  "posts": [
+    {
+      "id": 0,
+      "title": "First post!",
+      "content": "My first content!"
+    }
+  ],
+  "comments": [
+    {
+      "id": 0,
+      "content": "Wow such content!",
+      "username": "zero_cool"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Bill",
+      "lastName": "Gates",
+      "email": "bill@microsoft.com"
+    },
+    {
+      "id": 2,
+      "firstName": "Mark",
+      "lastName": "Zuckerberg",
+      "email": "mark@facebook.com"
+    },
+    {
+      "id": 3,
+      "firstName": "Jeff",
+      "lastName": "Bezos",
+      "email": "jeff@amazon.com"
+    }
+  ],
+  "signup_users": [
+    {
+      "name": "orewale gideon",
+      "email": "bill@microsoft.com",
+      "profession": "",
+      "userType": "student",
+      "favouriteVideo": []
+    },
+    {
+      "name": "amos babajide",
+      "email": "amos@google.com",
+      "profession": "",
+      "userType": "instructor",
+      "favouriteVideo": []
+    },
+    {
+      "id": 2,
+      "name": "anjorin itunu",
+      "email": "anikep@gmail.com",
+      "profession": "",
+      "userType": "instructor",
+      "favouriteVideo": []
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "name": "Awayino Oluwarombi",
+      "email": "yinorombi@gmail.com",
+      "profession": "data engineer",
+      "userType": "student",
+      "favouriteVideo": [],
+      "id": 7
+    },
+    {
+      "name": "Awayino Oluwarombi",
+      "email": "yinorombi@gmail.com",
+      "profession": "data engineer",
+      "userType": "student",
+      "favouriteVideo": [],
+      "id": 8
+    },
+    {
+      "name": "Awayino Oluwarombi",
+      "email": "yinorombi@gmail.com",
+      "profession": "data engineer",
+      "userType": "student",
+      "favouriteVideo": [],
+      "id": 9
+    },
+    {
+      "name": "Olufunke Adigun",
+      "email": "olufadigun@gmail.com",
+      "profession": "data engineer",
+      "userType": "student",
+      "favouriteVideo": [],
+      "id": 10
+    },
+    {
+      "name": "Olufunke Adigun",
+      "email": "olufadigun@gmail.com",
+      "profession": "data engineer",
+      "userType": "student",
+      "favouriteVideo": [],
+      "id": 11
+    },
+    {
+      "name": "Olufunke Adigun",
+      "email": "olufadigun@gmail.com",
+      "profession": "data engineer",
+      "userType": "student",
+      "favouriteVideo": [],
+      "id": 12
+    },
+    {
+      "id": 13
+    },
+    {
+      "name": "Awayino Oluwarombi",
+      "email": "yinorombi@gmail.com",
+      "profession": "data engineer",
+      "userType": "student",
+      "favouriteVideo": [],
+      "id": 14
+    },
+    {
+      "name": "Olufunke Adigun",
+      "email": "olufadigun@gmail.com",
+      "profession": "data engineer",
+      "userType": "student",
+      "profileImg": "",
+      "favouriteVideo": [],
+      "id": 15
+    },
+    {
+      "name": "Olufunke Adigun",
+      "email": "olufadigun@gmail.com",
+      "profession": "data engineer",
+      "userType": "Instructor",
+      "profileImg": "https://res.cloudinary.com/nath/image/upload/v1588360128/react/y6e8adnhidx9rgxfj3rd.jpg",
+      "favouriteVideo": [],
+      "id": 16
+    }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "name": "Microsoft"
+    },
+    {
+      "id": 2,
+      "name": "Facebook"
+    },
+    {
+      "id": 3,
+      "name": "Amazon"
+    },
+    {
+      "id": 4,
+      "name": "Google"
+    }
+  ],
+  "videoUploads": [
+    {
+      "title": "Sintel Trailer",
+      "description": "The sintel trailer is an excerpt of learning hunting, a story of the quest for an unknown hunter.",
+      "instructor": "Olufunke Adigun",
+      "videoUrl": "https://res.cloudinary.com/nath/video/upload/v1588380102/react/qqszdiyk3hxwrlpyjcyx.mp4",
+      "posterImage": "https://res.cloudinary.com/nath/image/upload/v1588379896/react/oyyd8iuxtdoycgswdrwu.png",
+      "id": 2,
+      "rating": 0
+    },
+    {
+      "title": "Dog Demo Image",
+      "description": "A dog demo image on how to train a dog",
+      "instructor": "Olufunke Adigun",
+      "videoUrl": "https://res.cloudinary.com/nath/video/upload/v1588383219/react/idgn4t8gaikdrnkqrb2l.mp4",
+      "posterImage": "https://res.cloudinary.com/nath/image/upload/v1588383108/react/j98ya58msutqfjwidwuo.jpg",
+      "id": 3,
+      "rating": 3
+    }
+  ]
+}
